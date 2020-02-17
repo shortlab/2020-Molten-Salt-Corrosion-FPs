@@ -1,0 +1,8 @@
+The corrosion microstructure of Hastelloy N was more varied than the other alloys tested in our study. 
+In some samples, it appears that Mo-rich carbides were removed from the cross-sectioned surface during polishing. 
+
+Also, some but not all Hastelloy N samples demonstrated some minor grain boundary attack. 
+
+For the purposes of this study, we took the corrosion depth in Hastelloy N to be the uniformly attacked region of severe corrosion near the surface. 
+
+Please see the paper manuscript at DOI:  for more details.
