@@ -1,1 +1,1 @@
-JNM Paper: https://doi.org/10.1016/j.jnucmat.2020.151994
+Fuel Composition & Vessel Flux.xlsx contains the results of Serpent reactor physics calculations performed by Transatomic Power.
