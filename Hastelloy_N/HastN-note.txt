@@ -5,4 +5,4 @@ Also, some but not all Hastelloy N samples demonstrated some minor grain boundar
 
 For the purposes of this study, we took the corrosion depth in Hastelloy N to be the uniformly attacked region of severe corrosion near the surface. 
 
-Please see the paper manuscript at DOI:  for more details.
+Please see the paper manuscript at DOI: 10.1016/j.jnucmat.2020.151994 for more details.
